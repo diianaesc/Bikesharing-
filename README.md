@@ -1,4 +1,4 @@
-# Bikesharing
+# Bikesharing 
 
 ## Overview of the analysis: Explain the purpose of this analysis.
 The purpose of this analysis was to create a business proposal using Tableau to convince investors that a bike-sharing program in Des Moines is viable. 
@@ -8,6 +8,7 @@ For the analysis the following visualizations were created:
 - Length of time that bikes are checked out for all riders and genders
 - Number of bike trips for all riders and genders for each hour of each day of the week
 - Number of bike trips for each type of user and gender for each day of the week.
+- Tableau Dashboard - [NYC Citibike Analysis](https://public.tableau.com/app/profile/diana.escobar/viz/CitibikeAnalysis_16599783585500/NYCCitibikeAnalysis?publish=yes)
 
 ## Results
 
